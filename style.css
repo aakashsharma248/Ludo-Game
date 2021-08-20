@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Hahmlet', serif;
+}
+body{
+    background-color: cadetblue;
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+h1{
+    margin: 30px;
+    text-shadow: 5px 5px white;
+    font-size: 6rem;
+    color:darkorange
+}
+p{
+    font-size: 2rem;
+    color: rgb(20, 243, 57);
+    text-shadow: 1px 1px white;
+
+}
+.btn
+{
+    padding: 10px;
+    background-color: darkred;
+    color: white;
+    border: none;
+}
+img{
+    width: 75%;
+}
